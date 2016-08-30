@@ -76,7 +76,7 @@ namespace VariablerÖvning1
             Console.Write("Mata in ett tresiffrigt tal: ");
             string inmatat;
             inmatat = Console.ReadLine();
-            int tal = int.Parse(inmatat); 
+            int tal = int.Parse(inmatat);
             Console.WriteLine("Summan av de tre siffrorna är: ");
 
             Console.ReadLine();
