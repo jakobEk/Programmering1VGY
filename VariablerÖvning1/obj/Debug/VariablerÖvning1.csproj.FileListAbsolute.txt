@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\VariablerÖvning1\VariablerÖvning1\bin\Debug\VariablerÖvning1.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\VariablerÖvning1\VariablerÖvning1\obj\Debug\VariablerÖvning1.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\VariablerÖvning1\VariablerÖvning1\bin\Debug\VariablerÖvning1.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\VariablerÖvning1\VariablerÖvning1\bin\Debug\VariablerÖvning1.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\VariablerÖvning1\VariablerÖvning1\obj\Debug\VariablerÖvning1.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\VariablerÖvning1\VariablerÖvning1\obj\Debug\VariablerÖvning1.pdb
