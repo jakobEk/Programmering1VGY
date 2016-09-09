@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\IFSatser\IFSatser\bin\Debug\IFSatser.exe.config
+C:\Users\jakobek\Documents\Visual Studio 2015\Projects\IFSatser\IFSatser\obj\Debug\IFSatser.csprojResolveAssemblyReference.cache
+C:\Users\jakobek\Documents\Visual Studio 2015\Projects\IFSatser\IFSatser\bin\Debug\IFSatser.exe
+C:\Users\jakobek\Documents\Visual Studio 2015\Projects\IFSatser\IFSatser\bin\Debug\IFSatser.pdb
+C:\Users\jakobek\Documents\Visual Studio 2015\Projects\IFSatser\IFSatser\obj\Debug\IFSatser.exe
+C:\Users\jakobek\Documents\Visual Studio 2015\Projects\IFSatser\IFSatser\obj\Debug\IFSatser.pdb
