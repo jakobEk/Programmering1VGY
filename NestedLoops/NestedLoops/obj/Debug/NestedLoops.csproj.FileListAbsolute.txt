@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\NestedLoops\NestedLoops\bin\Debug\NestedLoops.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\NestedLoops\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\NestedLoops\NestedLoops\obj\Debug\NestedLoops.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\NestedLoops\NestedLoops\obj\Debug\NestedLoops.pdb

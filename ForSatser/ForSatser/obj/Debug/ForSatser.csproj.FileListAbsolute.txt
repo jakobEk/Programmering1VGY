@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\ForSatser\ForSatser\bin\Debug\ForSatser.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\ForSatser\ForSatser\bin\Debug\ForSatser.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\ForSatser\ForSatser\bin\Debug\ForSatser.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\ForSatser\ForSatser\obj\Debug\ForSatser.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\ForSatser\ForSatser\obj\Debug\ForSatser.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\ForSatser\ForSatser\obj\Debug\ForSatser.pdb
