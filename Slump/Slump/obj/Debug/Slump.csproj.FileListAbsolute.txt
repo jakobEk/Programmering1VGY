@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\Slump\Slump\bin\Debug\Slump.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\Slump\Slump\bin\Debug\Slump.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\Slump\Slump\bin\Debug\Slump.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\Slump\Slump\obj\Debug\Slump.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\Slump\Slump\obj\Debug\Slump.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\Slump\Slump\obj\Debug\Slump.pdb
