@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\Klasser\Klasser\bin\Debug\Klasser.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\Klasser\Klasser\bin\Debug\Klasser.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\Klasser\Klasser\bin\Debug\Klasser.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\Klasser\Klasser\obj\Debug\Klasser.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\Klasser\Klasser\obj\Debug\Klasser.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\Klasser\Klasser\obj\Debug\Klasser.pdb

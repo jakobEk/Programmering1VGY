@@ -1,0 +1,6 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\SträngFormatering\SträngFormatering\bin\Debug\SträngFormatering.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\SträngFormatering\SträngFormatering\bin\Debug\SträngFormatering.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\SträngFormatering\SträngFormatering\bin\Debug\SträngFormatering.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\SträngFormatering\SträngFormatering\obj\Debug\SträngFormatering.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\SträngFormatering\SträngFormatering\obj\Debug\SträngFormatering.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\SträngFormatering\SträngFormatering\obj\Debug\SträngFormatering.pdb
