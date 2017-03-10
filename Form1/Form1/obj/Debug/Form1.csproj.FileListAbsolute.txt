@@ -1,0 +1,9 @@
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\bin\Debug\Form1.exe.config
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\bin\Debug\Form1.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\bin\Debug\Form1.pdb
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.Form1.resources
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.exe
+c:\users\jakobek\documents\visual studio 2015\Projects\Form1\Form1\obj\Debug\Form1.pdb
